@@ -64,6 +64,8 @@ public class TCPConnection extends Service {
 	}
 	
 	public String receive() throws InterruptedException {
+		Log.v("recieved message" ,"recieved msg");
+
 		return receiveBuffer.get();
 	}
 
