@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="available_groups">Tillgängliga grupper</string>
+    <string name="add_new_group">Lägg till en ny grupp</string>
+    <string name="add">Spara</string>
+    <string name="groups">Grupper</string>
+    <string name="change_language">Ändra språk</string>
+    <string name="english">Engelska</string>
+    <string name="swedish">Svenska</string>
+    <string name="show_on_map">Visa på karta</string>
+    <string name="remove_from_map">Ta bort från kartan</string>
+</resources>

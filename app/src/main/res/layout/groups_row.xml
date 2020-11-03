@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/txtGroupTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="3dp"
+        android:layout_weight="4"
+        android:maxWidth="50dp"
+        android:text="TextView" />
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_weight="0"
+        android:drawableStart="@drawable/ic_register"
+        android:drawablePadding="0dp"
+        android:gravity="center" />
+
+    <ToggleButton
+        android:id="@+id/btnShow"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="clip_vertical"
+        android:layout_marginTop="0dp"
+        android:layout_weight="1.5"
+        android:textOff="@string/show_on_map"
+        android:textOn="@string/remove_from_map"
+        android:textSize="10sp" />
+
+    <Button
+        android:id="@+id/btnSend"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_weight="0"
+        android:drawableEnd="@drawable/ic_chat"
+        android:gravity="center" />
+
+    <Button
+        android:id="@+id/btnUnregister"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_weight="0"
+        android:drawableStart="@drawable/ic_unregister"
+        android:drawablePadding="0dp"
+        android:gravity="center" />
+
+</LinearLayout>

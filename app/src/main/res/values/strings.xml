@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Friends in the World</string>
+
+    <string name="available_groups">Available Groups</string>
+    <string name="add_new_group">Add a new group</string>
+    <string name="add">Add</string>
+    <string name="groups">Groups</string>
+    <string name="change_language">Change Language</string>
+    <string name="english">English</string>
+    <string name="swedish">Swedish</string>
+    <string name="show_on_map">Show on Map</string>
+    <string name="remove_from_map">Remove from map</string>
+
+</resources>
