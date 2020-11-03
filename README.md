@@ -2,7 +2,7 @@
 
 An application that will serve as a tool for organizing your personal finances. The user should be able to enter expenditures and income using the UI. The UI will also show a list of the income and expenditures within a specified time period. These results must be properly presented to the user.
 
-<img src="https://user-images.githubusercontent.com/26624976/86121541-73652e80-bad6-11ea-94db-f180c285a2e4.png" width="400" height="800" />
+<img src="" width="400" height="800" />
 
 ## Goal
 - How to use the sensors in the device from an application.
